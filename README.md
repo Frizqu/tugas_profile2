@@ -1,6 +1,8 @@
-# flutter_application_1
+# Tugas Profile
 
-A new Flutter project.
+Screenshot Implementasi 
+[tugas ss profile (2)](https://user-images.githubusercontent.com/96322125/161053334-af249306-1ecc-4ca6-a146-b1cb0368f361.png)
+
 
 ## Getting Started
 
